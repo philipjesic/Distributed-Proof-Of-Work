@@ -17,3 +17,5 @@ coordinate shutting down all workers and updating the cache before returning the
 ## Worker:
 Workers are assigned a certain search space depending on the byte prefix when performing the proof of work.
 Workers also contain a cache.
+
+*UBC CPSC 416 Assignment*
